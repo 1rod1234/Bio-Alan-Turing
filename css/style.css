@@ -1,0 +1,22 @@
+body {
+    background-color: hsl(204, 78%, 65%);
+    font-family: sans-serif;
+    text-align: justify;
+}
+h1 {
+    color: #181717;
+    font-size: 250%;
+    text-align: center;
+    text-transform: uppercase;
+}
+h2{
+    text-align: center;
+}
+p {
+    background-color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+li{
+    background-color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
